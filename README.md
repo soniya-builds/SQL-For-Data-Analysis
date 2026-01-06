@@ -81,6 +81,9 @@ These insights can help improve pricing strategies, inventory planning, and mark
 
 ## 📂 Repository Structure
 ├── 📄 README.md
+<bt>
 ├── 📄 pizzaburg_schema.sql
+<bt>
 ├── 📄 pizzaburg_queries.sql
+<bt>
 └── 📄 dataset.csv
