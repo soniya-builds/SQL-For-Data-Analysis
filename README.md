@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis – Pizzaburg (SQL Project)
+# 🍕 Pizza Sales Analysis(SQL Project)
 
 ## 📌 Project Overview
 This project analyzes pizza sales data for a fictional company **Pizzaburg** using **SQL**.  
